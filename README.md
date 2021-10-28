@@ -22,5 +22,5 @@ pip3 install django
 
 ## The app while working
   - Type the localhost address in a browser to view. And type the city name.<br><br><br>
-    ![index](https://github.com/pradyneel/Weather-Detector/blob/master/Images/Execution.png)
+    ![index](https://github.com/pradyneel/Weather-Detector/blob/main/images/Screenshot%20(12).png)
   
